@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy **Brahian Chacon**
 
-<!--
-**brahian2605/brahian2605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
 
-Here are some ideas to get you started:
+> **Apasionado por el desarrollo web y la creación de experiencias digitales**  
+> Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas complejos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un **desarrollador full-stack** con experiencia en construir aplicaciones web y manejar la **gestión de comunidades online**.
+
+- 🔥 **Pasiones**:  
+  - Desarrollo de aplicaciones web intuitivas y rápidas.  
+  - Aprender nuevas tecnologías y aplicarlas en proyectos reales.  
+  - Ayudar a negocios y comunidades a crecer en el entorno digital.
+
+---
+
+## 💼 Background
+
+- 🎓 Formación en desarrollo web y gestión de comunidades.  
+- 💡 Experiencia en proyectos con **React**, **Node.js**, y bases de datos **PostgreSQL**.  
+- 🤝 Colaboración en equipos usando **metodologías ágiles**.
+
+---
+
+## 🛠 **Stack Tecnológico**
+
+### **Frontend**  
+- React  
+- Redux  
+- HTML5, CSS3 (Sass)  
+- JavaScript (ES6+)
+
+### **Backend**  
+- Node.js  
+- Express  
+- PostgreSQL  
+- Sequelize
+
+### **Otras tecnologías**  
+- Git & GitHub    
+- Figma (diseño de UI/UX)
+
+---
+
+## 📫 **Contacto**
+
+- **Email**: chaconbrahian@gmail.com
+- **LinkedIn**: [[www.linkedin.com/in/brahian-chacón-8b478b1a6)]
+
