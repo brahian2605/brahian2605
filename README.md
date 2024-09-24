@@ -53,7 +53,7 @@
 
 ## 🎓 *Formación*
 
-- Tegnolo Logistico De Transporte | SENA | 2017 - 2019
+- Logistico De Transporte | SENA | 2017 - 2019
 - Full Stack Web Developer - Henry | Sep 2023 - Sep 2024
 
 ---
