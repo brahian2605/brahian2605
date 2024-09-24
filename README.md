@@ -1,49 +1,77 @@
-# 👋 ¡Hola! Soy **Brahian Chacon**
+## ⚡ *Sobre mi* 
+> *Soy Rebeca Carrizo Bourlot*
+>  - Me ha interesado el mundo de la programación desde que ingresé a la universidadSiglo XXI, donde estudio Lic en Informática, fue una gran motivación para mi acercamiento al código.
+> - Soy **Full Stack Developer** con experiencia en crear aplicaciones web intuitivas, tanto en en proyectos individuales como colaborativos, utilizando tecnologías como JavaScript, React Js, Redux, CSS, HTML, Tailwind, Cloudinary, Postgress, Sequelize, Node Js, ExpressJs.
+> - Me enfoco en el aprendizaje continuo sobre nuevas tecnologías, para aplicarlas en proyectos y darle la mejor experiencia al usuario
+> - Con habilidades en trabajo en equipo, adaptabilidad, responsabilidad, escucha activa y creatividad.
+> - Actualmente realizo proyectos que me permiten avanzar en mi formación como programador. Me fascina encontrar la solución a problemas que creíamos ya resueltos.
 
-## 🚀 Sobre mí
 
-> **Apasionado por el desarrollo web y la creación de experiencias digitales**  
-> Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas complejos.
+--- 
 
-Soy un **desarrollador full-stack** con experiencia en construir aplicaciones web y manejar la **gestión de comunidades online**.
+## 💼 *Background*
 
-- 🔥 **Pasiones**:  
-  - Desarrollo de aplicaciones web intuitivas y rápidas.  
-  - Aprender nuevas tecnologías y aplicarlas en proyectos reales.  
-  - Ayudar a negocios y comunidades a crecer en el entorno digital.
+- Propietaria de Minimercado DejaVu Market | Argentina, Entre Ríos
 
----
 
-## 💼 Background
+ --- 
+ 
+ ## 🚀 *Objetivos*
 
-- 🎓 Formación en desarrollo web y gestión de comunidades.  
-- 💡 Experiencia en proyectos con **React**, **Node.js**, y bases de datos **PostgreSQL**.  
-- 🤝 Colaboración en equipos usando **metodologías ágiles**.
+- Impactar el mundo con código
+- Ampliar mi perspectiva y encontrar nuevas soluciones a problemas
+- Continuar aprendiendo nuevas tecnologías y seguir avanzando en este tan interesante mundo de la programación
+  
+ --- 
+ 
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  *Tecnologías*
+ <div style="display: flex; align-items: center;">
+   <img width ='32px' src ='https://www.twicpics.com/logos/twicpics-integrations/react.svg'> 
+ <img width ='32px' src='https://www.twicpics.com/logos/twicpics-integrations/javascript.svg'>
+  <img width ='32px' src='https://e7.pngegg.com/pngimages/669/447/png-clipart-redux-react-javascript-freecodecamp-npm-others-miscellaneous-purple-thumbnail.png'>
+  <img width ='32px' src='https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png'>
+  <img width ='32px' src='https://w7.pngwing.com/pngs/448/730/png-transparent-postgresql-plain-logo-icon.png'>
+ <img width ='32px' src='https://w7.pngwing.com/pngs/224/77/png-transparent-website-web-internet-css-style-css3-technology-social-media-logos-i-flat-colorful-icon-thumbnail.png'>
+  </div>
 
----
-
-## 🛠 **Stack Tecnológico**
-
-### **Frontend**  
-- React  
+  
+### *Frontend*  
+- React Js
 - Redux  
 - HTML5, CSS3 (Sass)  
-- JavaScript (ES6+)
+- JavaScript
 
-### **Backend**  
-- Node.js  
+### *Backend*  
+- NodeJs  
 - Express  
 - PostgreSQL  
 - Sequelize
 
-### **Otras tecnologías**  
+### *Otras*  
 - Git & GitHub    
 - Figma (diseño de UI/UX)
 
----
+ ---
+## 🎓 *Formación*
 
-## 📫 **Contacto**
+- Estudiante de licenciatura en informática | Universidad Siglo XXI | 2022 - 2026
+- Full stack web developer - Henry | oct 2023 - sep 2024
 
-- **Email**: chaconbrahian@gmail.com
-- **LinkedIn**: [[www.linkedin.com/in/brahian-chacón-8b478b1a6)]
+ --- 
+ 
+## 📫 *Contacto*
+<div>
+ <img width ='32px' src ='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'> 
+ <span>
+  carrizob.rebeca@gmail.com
+ </span>
+ </div>
+  <div>
+ <img width ='32px' src ='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'> 
 
+  <span>
+  www.linkedin.com/in/carrizo-bourlot-rebeca
+ </span>
+
+  
+ </div>
