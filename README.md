@@ -2,12 +2,11 @@
 
 ## ⚡ *Sobre mí* 
 > *Soy Brahian Chancon*
-> - Desde que ingresé a la Universidad Siglo XXI, mi interés por la programación ha crecido constantemente, motivándome a explorar y profundizar en el mundo del código.
-> - Soy **Full Stack Developer** con experiencia en crear aplicaciones web intuitivas, trabajando tanto en proyectos individuales como colaborativos, utilizando tecnologías como JavaScript, React, Redux, CSS, HTML, Tailwind, Cloudinary, PostgreSQL, Sequelize, Node.js y Express.js.
-> - Me enfoco en el aprendizaje continuo de nuevas tecnologías, aplicándolas en proyectos para brindar la mejor experiencia al usuario.
-> - Tengo habilidades en trabajo en equipo, adaptabilidad, responsabilidad, escucha activa y creatividad.
-> - Actualmente, estoy desarrollando proyectos que me permiten avanzar como programador y encontrar soluciones a problemas complejos.
-
+> - Soy **Full Stack Developer** con experiencia en el desarrollo de aplicaciones web intuitivas, utilizando tecnologías modernas como JavaScript, React, Redux, Node.js, PostgreSQL, entre otras.
+> - Mi enfoque está en crear soluciones escalables y centradas en el usuario, con un fuerte compromiso hacia la mejora continua y el aprendizaje de nuevas tecnologías para optimizar los proyectos en los que trabajo.
+> - Tengo habilidades en trabajo en equipo, comunicación efectiva, adaptabilidad y creatividad, que me permiten enfrentar desafíos de desarrollo de manera efectiva.
+> - Actualmente, estoy desarrollando proyectos personales y colaborativos para afianzar mis conocimientos y continuar mejorando mis habilidades como desarrollador.
+ 
 ---
 
 ## 💼 *Background*
@@ -63,7 +62,7 @@
 <div>
    <img width ='32px' src ='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'> 
    <span>
-      brahian.chanco@gmail.com
+      chaconbrahian@gmail.com
    </span>
 </div>
 <div>
